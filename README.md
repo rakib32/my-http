@@ -22,7 +22,7 @@ with the flags being
 ```
 for example
 ```
-./myhttp http://www.adjust.com http://google.com
+./myhttp http://www.yahoo.com http://google.com
 ```
 
 **Note: Please `control+c` to stop the tool(Graceful shutdown).**
